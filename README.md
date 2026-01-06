@@ -17,4 +17,4 @@ This is a beginner-level Excel dashboard created to analyze and track sales perf
 ## Project Status
 Beginner project – created while learning Excel for Data Analytics.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard_Preview.png)
