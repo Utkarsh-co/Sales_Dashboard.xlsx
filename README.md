@@ -18,3 +18,5 @@ This is a beginner-level Excel dashboard created to analyze and track sales perf
 Beginner project – created while learning Excel for Data Analytics.
 
 ![Dashboard Preview](Dashboard_Preview.png)
+Data Source: Publicly available dataset collected from an online source (Kaggle).
+Note: This project is created for learning and portfolio purposes.
